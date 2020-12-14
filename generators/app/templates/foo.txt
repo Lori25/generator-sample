@@ -1,0 +1,7 @@
+模板文件
+
+<%= title %>
+
+<% if(bool) {%>
+bool is true
+<%}%>
